@@ -1,0 +1,107 @@
+.target {
+    background: brown;
+    height: 50px;
+    text-align: center;
+    color: azure;
+    font-size: xxx-large;
+    font-family: Arial;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.marg {
+    background: silver;
+    padding: 10px 20px;
+    font-size: 25px;
+}
+
+.get {
+    background: cornflowerblue;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    font-size: large;
+}
+
+.kv {
+    background: forestgreen;
+    width: 300px;
+    height: 300px;
+}
+
+.kva {
+    background: dimgray;
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+}
+
+.A {
+    background: darkorange;
+    width: 100px;
+    height: 100px;
+    box-sizing: border-box;
+    padding-top: 45px;
+    border: 1px solid dimgray;
+    box-shadow: 10px 10px;
+    text-align: center;
+    margin: 50px;
+}
+
+.B {
+    background: darkorange;
+    width: 100px;
+    height: 100px;
+    margin: 50px;
+    box-sizing: border-box;
+    border: 1px solid dimgray;
+    text-align: center;
+    box-shadow: 10px 10px 5px;
+    padding-top: 45px;
+}
+
+.C {
+    background: darkorange;
+    width: 100px;
+    height: 100px;
+    margin: 50px;
+    box-sizing: border-box;
+    border: 1px solid dimgray;
+    text-align: center;
+    box-shadow: 15px 15px 5px;
+    padding-top: 45px;
+}
+
+.D {
+    background: darkorange;
+    width: 100px;
+    height: 100px;
+    margin: 50px;
+    box-sizing: border-box;
+    border: 1px solid dimgray;
+    text-align: center;
+    box-shadow: #8899aa 15px 15px 5px;
+    padding-top: 45px;
+}
+
+.E {
+    background: darkorange;
+    width: 100px;
+    height: 100px;
+    margin: 50px;
+    box-sizing: border-box;
+    border: 1px solid dimgray;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 10px 10px 5px;
+    padding-top: 45px;
+}
+.F { background: darkorange;
+    width: 100px;
+    height: 100px;
+    margin: 50px;
+    box-sizing: border-box;
+    border: 1px solid dimgray;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow:#8899aa 10px 10px 5px;
+    padding-top: 45px;
