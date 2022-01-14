@@ -1,0 +1,18 @@
+.target {
+    background: slategray;
+    width: 500px;
+    height: 300px;
+    margin-top: 100px;
+    margin-left: 5px;
+    box-sizing: border-box;
+    box-shadow: tan -30px -30px 60px 30px;
+
+}
+
+.a {
+    border-left: red 5px solid;
+    margin-left: 5px;
+    padding-left: 20px;
+    font-size: large;
+    font-family: Arial;
+}
