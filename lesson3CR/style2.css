@@ -1,0 +1,40 @@
+.A {
+    background: darkgray;
+    width: 400px;
+    height: 100px;
+    text-align: center;
+    box-sizing: border-box;
+    color: azure;
+    border: 5px solid silver;
+}
+
+.B, .C, .D, .E, .F, .G {
+    background: darkgray;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    box-sizing: border-box;
+    color: azure;
+    border: 5px solid silver;
+}
+
+#smol2 {
+    background: darkgray;
+    width: 100px;
+    height: 200px;
+    text-align: center;
+    box-sizing: border-box;
+    color: azure;
+    border: 5px solid silver;
+}
+
+#smol1 {
+    height: 200px;
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#contener {
+    display: flex;
+}

@@ -1,0 +1,42 @@
+.A, .B {
+    background: dodgerblue;
+    height: 200px;
+    width: 100px;
+    box-sizing: border-box;
+    text-align: center;
+    color: azure;
+    margin: 5px;
+}
+
+#contener1 {
+
+    display: flex;
+
+
+}
+
+#contener2 {
+    height: 100px;
+    width: 210px;
+    background: cornflowerblue;
+    text-align: center;
+    color: azure;
+    box-sizing: border-box;
+    margin: 5px;
+}
+
+.C, .D, .F {
+    background: darkblue;
+    height: 100px;
+    width: 60px;
+    text-align: center;
+    color: azure;
+}
+
+#contener3 {
+    height: 100px;
+    width: 210px;
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
