@@ -1,0 +1,44 @@
+.A {
+    background: dodgerblue;
+    width: 600px;
+    height: 200px;
+    box-sizing: border-box;
+    text-align: center;
+    color: azure;
+    margin-bottom: 10px;
+    font-family: Arial;
+    font-size: xx-large;
+    padding-top: 30px;
+
+}
+
+.B {
+    background: dodgerblue;
+    width: 600px;
+    height: 400px;
+    box-sizing: border-box;
+    text-align: center;
+    color: azure;
+    font-family: Arial;
+    font-size: xx-large;
+    padding-top: 200px;
+
+}
+
+.big, .biger, .huge {
+    background: darkblue;
+    width: 180px;
+    height: 200px;
+    box-sizing: border-box;
+    text-align: center;
+    color: azure;
+    margin-bottom: 10px;
+    font-family: Arial;
+    font-size: large;
+    padding-top: 100px;
+}
+#contener {
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,44 @@
+#contener {
+    width: 300px;
+    border: 2px solid;
+    border-radius: 5px;
+}
+
+.A {
+    background: darkgray;
+    height: 50px;
+    width: 300px;
+    box-sizing: border-box;
+    text-align: center;
+    color: dimgray;
+    padding-top: 20px;
+    border: silver 5px solid;
+
+}
+
+.B {
+    background: darkgray;
+    height: 150px;
+    width: 200px;
+    box-sizing: border-box;
+    text-align: center;
+    color: dimgray;
+    padding-top: 20px;
+    border: silver 5px solid;
+}
+
+.C {
+    background: darkgray;
+    height: 150px;
+    width: 100px;
+    box-sizing: border-box;
+    text-align: center;
+    color: dimgray;
+    padding-top: 20px;
+    border: silver 5px solid;
+}
+
+#child {
+    display: flex;
+
+}

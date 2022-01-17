@@ -1,0 +1,54 @@
+.header {
+    background: dodgerblue;
+    height: 50px;
+    width: 500px;
+    box-sizing: border-box;
+    text-align: center;
+    color: azure;
+    padding-top: 10px;
+    font-family: Arial;
+}
+
+.nav {
+    background: darkblue;
+    height: 50px;
+    width: 500px;
+    box-sizing: border-box;
+    text-align: center;
+    color: azure;
+    padding-top: 10px;
+    font-family: Arial;
+}
+.main {
+    background: mediumslateblue;
+    height: 300px;
+    width: 400px;
+    box-sizing: border-box;
+    text-align: center;
+    color: azure;
+    padding-top: 100px;
+    font-family: Arial;
+}
+.aside {
+    background: darkslateblue;
+    height: 300px;
+    width: 100px;
+    box-sizing: border-box;
+    text-align: center;
+    color: azure;
+    padding-top: 100px;
+    font-family: Arial;
+}
+#contener {
+    display: flex;
+}
+.footer {
+    background: aqua;
+    height: 50px;
+    width: 500px;
+    box-sizing: border-box;
+    text-align: center;
+    color: azure;
+    padding-top: 10px;
+    font-family: Arial;
+}
