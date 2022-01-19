@@ -1,0 +1,39 @@
+.bg-grey {
+    background: darkgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    color: dimgray;
+    border: silver 5px solid;
+}
+
+.w100 {
+    width: 100px;
+}
+
+.w200 {
+    width: 200px;
+}
+
+.w300 {
+    width: 300px;
+}
+
+.h50 {
+    height: 50px;
+}
+
+.h150 {
+    height: 150px;
+}
+
+.h200 {
+    height: 200px;
+}
+
+.contener {
+    display: flex;
+    flex-wrap: wrap;
+
+}

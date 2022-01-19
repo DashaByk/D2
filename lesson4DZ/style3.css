@@ -1,0 +1,39 @@
+.contener {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 30px;
+    row-gap: 10px;
+}
+.w600 {
+    width: 600px;
+}
+.w180 {
+    width: 180px;
+}
+.h200 {
+    height: 200px;
+}
+.h400 {
+    height: 400px;
+}
+.bg-blue {
+    background: dodgerblue;
+}
+.bg-dblue {
+    background: darkblue;
+}
+.style {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: azure;
+
+    font-family: Arial;
+}
+.size {
+    font-size: xx-large;
+}
+.size1 {
+    font-size: large;
+}

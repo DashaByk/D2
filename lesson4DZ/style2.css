@@ -1,0 +1,63 @@
+.contener {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 10px;
+}
+.contener1 {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 10px;
+    margin-left: 10px;
+}
+.h100 {
+    height: 100px;
+}
+
+.h245 {
+    height: 245px;
+}
+
+.h500 {
+    height: 500px;
+}
+
+.h700 {
+    height: 700px;
+}
+
+.w190 {
+    width: 190px;
+}
+
+.w400 {
+    width: 400px;
+}
+
+.w600 {
+    width: 600px;
+}
+
+.bg-green {
+    background: darkseagreen;
+}
+
+.bg-red {
+    background: darkorange;
+}
+
+.bg-blue {
+    background: aqua;
+}
+
+.bg-khaki {
+    background: khaki;
+}
+
+.style {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid;
+    font-size: xx-large;
+}

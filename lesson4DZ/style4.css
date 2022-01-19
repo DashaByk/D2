@@ -1,0 +1,41 @@
+.contener {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.h100 {
+    height: 100px;
+}
+
+.h500 {
+    height: 500px;
+}
+
+.w300 {
+    width: 300px;
+}
+
+.w800 {
+    width: 800px;
+}
+
+.bg-blue {
+    background: darkturquoise;
+}
+
+.bg-white {
+    background: azure;
+
+}
+
+h3 {
+    color: darkorange;
+}
+
+.style {
+    border-radius: 10px;
+    text-align: center;
+}
+

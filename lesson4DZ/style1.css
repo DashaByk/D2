@@ -1,0 +1,57 @@
+.h50 {
+    height: 50px;
+}
+
+.h300 {
+    height: 300px;
+}
+
+.h450 {
+    height: 450px;
+}
+
+.w100 {
+    width: 100px;
+}
+
+.w400 {
+    width: 400px;
+}
+
+.w500 {
+    width: 500px;
+}
+
+.contener {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.bg-dodgerblue {
+    background: dodgerblue;
+}
+
+.bg-darkblue {
+    background: darkblue;
+}
+
+.bg-mediumbslue {
+    background: mediumslateblue;
+}
+
+.bg-darksblue {
+    background: darkslateblue;
+}
+
+.bg-aqua {
+    background: aqua;
+}
+.style {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: azure;
+
+
+}
