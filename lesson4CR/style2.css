@@ -1,0 +1,190 @@
+.h950 {
+    height: 950px;
+}
+
+.h20 {
+    height: 20px;
+}
+
+.h50 {
+    height: 50px;
+}
+
+.h150 {
+    height: 150px;
+}
+
+.h10 {
+    height: 10px;
+}
+
+.h400 {
+    height: 400px;
+}
+
+.h100 {
+    height: 100px;
+}
+
+.w300 {
+    width: 300px;
+}
+
+.w50 {
+    width: 50px;
+}
+
+.w250 {
+    width: 250px;
+}
+
+.w100 {
+    width: 100px;
+}
+
+.w80 {
+    width: 80px;
+}
+
+.w120 {
+    width: 120px;
+}
+
+.w10 {
+    width: 10px;
+}
+
+.bg-silver {
+    background: silver;
+}
+
+.bg-darkt {
+    background: darkturquoise;
+}
+
+.bg-darksblue {
+    background: darkblue;
+}
+
+.display {
+    display: flex;
+}
+
+.flex {
+    flex-wrap: wrap;
+}
+
+.justify1 {
+    justify-content: space-evenly;
+}
+
+.justify2 {
+    justify-content: center;
+}
+
+.justify3 {
+    justify-content: start;
+}
+
+.align {
+    align-items: center;
+}
+
+.br {
+    border-radius: 10px;
+}
+
+.br2 {
+    border-radius: 50%;
+}
+
+.colum {
+    column-gap: 20px;
+}
+
+.colum2 {
+    column-gap: 5px;
+}
+
+.box-siz {
+    box-sizing: border-box;
+}
+
+.border {
+    border: 2px solid darkturquoise;
+}
+
+.color1 {
+    color: darkturquoise;
+}
+
+.color2 {
+    color: darkblue;
+}
+
+.padding {
+    padding-left: 5px;
+}
+
+.contener1 {
+    text-align: end;
+}
+
+.contener3 > p {
+    text-align: center;
+}
+
+.contener3 > h3 {
+    margin: 0;
+}
+
+.contener4 {
+    margin-left: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.contener4 > h3 {
+    text-align: center;
+    margin: 0;
+}
+
+.contener6 > h3 {
+    text-align: center;
+}
+
+.contener6_1 {
+    row-gap: 5px;
+}
+
+.contener7 {
+    margin-bottom: 5px;
+}
+
+.cart1 > p {
+    font-size: xx-small;
+}
+
+.cart2 > p {
+    color: azure;
+    margin: 0;
+}
+
+.cart3 > p {
+    margin: 0;
+    font-size: xx-small;
+    text-align: center;
+}
+
+.cart4 > p {
+    font-size: xx-small;
+}
+
+.cart4 > h4 {
+    margin: 0;
+}
+
+
+
+
+
