@@ -1,0 +1,19 @@
+body {
+    background: coral
+}
+
+h1 {
+    text-align: center;
+    color: darkblue;
+}
+
+h2 {
+    text-align: center
+}
+
+.qqq {
+    width: 400px;
+}
+p   {
+    text-align: justify;
+}
