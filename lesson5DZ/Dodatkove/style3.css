@@ -1,0 +1,23 @@
+.w400 {
+    width: 400px;
+}
+.w100 {
+    width: 100px;
+}
+.w200 {
+    width: 200px;
+}
+
+.bg-grey {
+    background: dimgrey;
+}
+.display {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 5px;
+    column-gap: 5px;
+}
+.txt {
+    text-align: center;
+    color: white;
+}

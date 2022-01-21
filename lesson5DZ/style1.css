@@ -1,0 +1,78 @@
+.h100 {
+    height: 100px;
+}
+
+.h200 {
+    height: 205px;
+}
+
+.w100 {
+    width: 100px;
+}
+
+.w300 {
+    width: 310px;
+}
+
+.w400 {
+    width: 415px;
+}
+
+.bg-white {
+    background: white;
+}
+
+.bg-silver {
+    background: silver;
+}
+
+.br {
+    border: dimgray 2px solid;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.display {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 5px;
+    column-gap: 5px;
+}
+
+.txt {
+    text-align: center;
+    color: dimgray;
+}
+
+@media screen and (max-width: 400px) {
+    .A {
+        width: 200px;
+        height: 50px;
+    }
+
+    .B {
+        width: 200px;
+        height: 150px;
+    }
+
+    .C, .D, .E {
+        width: 50px;
+        height: 50px;
+    }
+
+    .H {
+        width: 200px;
+        height: 50px;
+    }
+
+    .contener1 {
+        width: 200px;
+        height: 400px;
+        row-gap: 20px;
+    }
+
+    .contener2 {
+        justify-content: space-between;
+        row-gap: 20px;
+    }
+}
