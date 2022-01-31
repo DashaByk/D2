@@ -1,0 +1,65 @@
+* {
+    font-family: "Roboto Light" sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --black-color: #0B2330;
+}
+
+.wrapper {
+    max-width: 1150px;
+    margin: 0 auto;
+}
+
+.top {
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav_menu {
+    display: flex;
+    align-items: center;
+    column-gap: 22px;
+}
+
+.nav_menu__item a {
+    font-size: 15px;
+    line-height: 16px;
+    color: var(--black-color);
+    text-decoration: none;
+}
+
+.nav_buttons {
+    margin-left: 5px;
+    display: flex;
+    column-gap: 18px;
+}
+
+.nav_btn {
+    height: 52px;
+    box-sizing: border-box;
+    border-radius: 100px;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    padding: 0 25px;
+}
+.nav_btn:hover{
+    box-shadow: 10px 10px 10px;
+}
+.nav_btn__login {
+    border: 1px solid var(--black-color);
+    background: none;
+    color: var(--black-color);
+}
+
+.nav_btn__talk {
+    border: none;
+    background: var(--black-color);
+    color: white;
+
+
+}
